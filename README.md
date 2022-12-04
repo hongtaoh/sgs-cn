@@ -1,3 +1,3 @@
-# Example site of [hugo-ht](https://github.com/hongtaoh/hugo-ht)
+# St.Gallen Symposium Chinese Branch
 
-This site serves as the example site of [hugo-ht](https://github.com/hongtaoh/hugo-ht).
+网站还在建设中
